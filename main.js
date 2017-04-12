@@ -13,3 +13,7 @@ console.log(result) //0
 console.log(1+19)
 result = sum(1,19)
 console.log(result) //20
+
+function mul (a,b) {
+  return (a * b)
+}
